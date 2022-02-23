@@ -1,2 +1,4 @@
-CPE-322
-This is my repository for CPE 322: Design 6
+This repository is for the Indoor Weather Monitoring System that I completed during my freshman year at Stevens Institute of Technology
+
+This semester we worked on a weather station that constantly monitors the light, temperature and humidity that surrounds it. The objective was to have a running machine that successfully made constant data readings from somewhere on the Stevens campus. We learned Arduino codings and how to correctly set up, wire and operate a Wemos D1 R1/R2 board. We were given wires, the Wemos board, a portable charger and a docking peg board and were told to 3D print a common letter or number that could successfully hold and stabilize our project. We chose to print two letter F’s and soldered two plastic pegs to the vertical part of the letter. The letters would be laid out in an orientation that has been rotated 90 degrees counterclockwise. In our duo, Jake had the greater knowledge on coding, so he tended to focus more on the Labview and Arduino codes. At the same time, I focused more on the physical structure of the product, soldering the pegs, plugging in wires and sensors and erecting our physical project from the peg board upwards. We successfully completed our mission of having a working project.
+
